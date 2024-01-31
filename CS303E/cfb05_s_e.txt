@@ -1,0 +1,65 @@
+2005-08-25
+Adams St 
+6
+C Missouri 
+14
+2005-08-25
+NW Missouri 
+24
+MN Mankato 
+21
+2005-08-25
+South Dakota 
+77
+MN Crookston 
+0
+2005-08-25
+C Oklahoma 
+7
+MO Western 
+26
+2005-08-25
+W Texas A&M 
+90
+NM Highlands 
+21
+2005-08-25
+Arkansas Tech 
+35
+NE Oklahoma 
+32
+2005-08-25
+Panhandle St 
+10
+SW Oklahoma 
+13
+2005-08-25
+Concord 
+0
+Tusculum 
+21
+2005-08-25
+Benedict 
+17
+Morehouse 
+20
+2005-08-25
+Concordia AL 
+12
+West Alabama 
+34
+2005-08-26
+E Stroudsburg 
+72
+Bentley 
+17
+2005-08-26
+Clarion 
+14
+West Chester 
+43
+2005-08-27
+Slippery Rock 
+24
+Bloomsburg 
+40

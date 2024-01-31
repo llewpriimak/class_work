@@ -1,0 +1,156 @@
+Plane crash fatalities and the airline from 2013 to 2022
+http://www.planecrashinfo.com/database.htm
+132,China Eastern Airlines
+22,Tara Air
+8,Meridian
+62,Sriwijaya Air
+10,South Sudan Supreme Airlines
+5,Soloy helicopters
+11,Nigerian Air Force
+12,Myanmar Air Force
+50,Philippine Air Force
+28,Kamchatka Aviation Enterprise
+4,Aeroservice/SiLA
+4,Med Jet
+18,Sudanese Air Force
+176,Ukraine International Airlines
+3,Pegasus Airlines
+8,Lion Air Inc.
+97,Pakistan International Airline
+20,Air India Express 
+7,South West Aviaiton
+26,Ukraine Air Force
+15,Saha Air
+3,Atlas Air Serving Amazon
+14,Laser Aereo Colombia
+157,Ethiopian Airlines
+6,Archipelagos Service Aereos
+13,TVPX Aircraft Solutions
+41,Aeroflot Russian International Airlines
+13,Indian Air Force
+5,Pakistan Army
+2,Private
+5,Ukraine Air Alliance
+19,Busy Bee Congo
+12,Bek Air
+12,People Liberation Army Air Force
+3,Papillon
+71,Saratov Airlines
+66,Iran Aseman Airlines
+39,Russian Air Force
+5,Liberty Helicopters
+11,Mc Aviation
+51,Bangla Airlines
+257,Algerian Air Force
+1,Southwest Airlines
+9,US Air Force
+112,Cubana
+10,Fly SAX
+1,Rovos Air
+20,Ju Air
+15,Russian Air Force
+1,Air Niugini
+189,Lion Air
+1,Fly Jamaica Airways
+4,My Cargo Airlines
+5,Australian Corporate Jet
+7,Swan Aviation
+6,ETA Air Charter
+2,Air Cargo Carriers
+2,Summit Air
+122,Myanmar Air Force
+3,Angel Flight
+16,USMC
+12,Air Force of the Democratic Republic of the Congo
+7,Guicango
+4,Valan International Cargo Charter
+11,Costal Aviation
+1,West Wind Aviation
+12,Naure Air
+2,West Air Sweden
+1,Daallo Airlines
+23,Tara Air
+2,Kasthamandap Airlines
+3,True Aviation Ltd.
+22,Ecuador Army
+62,Flydubai
+7,Marquise Aviation Corp.
+5,Smoky Mountain Helicopters
+12,Sunbird Aviation
+13,CHC Helikopter Service
+66,Egypt Air
+29,Indian Air Force
+16,Heart of Texas Hot Air Balloon Rides
+5,Hageland Aviiation
+5,AE Aviation
+71,LAMIA Bolivia
+13,Indonesian Police
+48,Pakistan International Airlines
+13,Indonesian Air Force
+5,Aerosucre Colombia
+92,Russian Air Force
+37,Syrian Air Force
+43,Transaia
+10,Private
+150,Germanwings
+9,Promech Air
+122,Indonesian Air Force
+11,Colombia Air Force
+1,Komala Air
+54,Trigana Air Service
+7,Senegalair
+3,Rainbow King Lodge
+11,U.S. Army
+10,Avistar Mandari
+4,Trigana Air Service
+224,Metrojet
+41,Allied Services Limited
+7,Alpine Adventures
+15,Turuhan Avia
+2,Scoala Superioara de Aviatie Civla
+76,Algerian Air Force
+18,Nepal Airlines
+11,Libyan Air Cargo
+239,Malaysia Airlines
+2,Helicopters Inc/KOMO TV
+8,Lineas Aéreas Comerciales
+8,Suomen Urheiluilmailijat
+6,Alisansa Colombia
+16,Laos Air Force
+49,Ukraine Air Force
+4,Skyward International Aviation
+18,Vietnam People's Army Air Force
+298,Malaysia Airlines
+45,TransAsia Airways
+116,Air Algérie
+39,Sepahan Airlines
+7,Ukraine Air Alliance
+3,Safari Express Cargo
+4,Hevlift
+2,Air Evac Lifeteam
+6,Air Sirin
+162,AirAsia
+3,Med-Trans Corporaion
+6,Transaereo 5074
+21,SCAT Air
+5,South Airlines
+7,Compagnie Africaine d' Aviation
+2,Ace Air Cargo
+7,National Air Cargo
+4,Ornge Air Ambulance
+20,Indian Air Force
+3,Asiana Airlines
+10,Rediske Air
+4,Ethiopian Air Force
+2,United Parcel Service
+16,Associated Aviation
+2,MASwings
+49,Lao Airlines
+8,Aerocon
+13,Indonesian Army
+5,Bearskin Airlines
+50,Tarastan Airlilnes
+3,Bond Air Services Ltd.
+33,Mozambique Airline
+5,Heringer taxi Aero
+9,IrAvia
