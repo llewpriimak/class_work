@@ -1,0 +1,12 @@
+Chunk the program
+Debug_testing
+
+UNITS --> Function UNIT
+
+Code (do_it) --> 'Hello'
+Test (Test) --> 'Hello'
+
+MAIN (Source)
+
+Test (Test)  [CODE TEST] aka unit test
+unit test package -- this generates a class for testing
